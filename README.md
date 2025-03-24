@@ -1,1 +1,1 @@
-# recall_potion_translations
+You can submit your translation files here for the mod.
