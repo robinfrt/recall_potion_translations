@@ -1,0 +1,21 @@
+{
+  "item_group.recall_potion.recall_potion_creative_tab": "回忆药水",
+  "advancements.nether_potion_advancement.descr": "获得一瓶下界药水",
+  "advancements.recall_potion_advancement.title": "快速旅行",
+  "item.recall_potion.end_potion.description_1": "§7重生点：§6必须",
+  "item.recall_potion.end_potion.description_0": "§7传送到：§e末地",
+  "advancements.recall_potion_advancement.descr": "获得一瓶回忆药水",
+  "advancements.end_potion_advancement.descr": "获得一瓶末地药水",
+  "item.recall_potion.recall_potion": "回忆药水",
+  "item.recall_potion.end_potion": "末地药水",
+  "advancements.end_potion_advancement.title": "维度行者",
+  "advancements.nether_potion_advancement.title": "重回地狱",
+  "item.recall_potion.nether_potion": "下界药水",
+  "item.recall_potion.end_potion.description_2": "§7重生地点：§e磁石",
+  "item.recall_potion.nether_potion.description_0": "§7传送到：§e下界",
+  "item.recall_potion.nether_potion.description_1": "§7重生点：§6必须",
+  "item.recall_potion.nether_potion.description_2": "§7重生地点：§e灵魂营火§7、§e重生锚§7、§e磁石",
+  "item.recall_potion.recall_potion.description_1": "§7重生点：§a可选",
+  "item.recall_potion.recall_potion.description_0": "§7传送到：§e主世界",
+  "item.recall_potion.recall_potion.description_2": "§7重生地点：§e床§7、§e营火§7、§e磁石"
+}

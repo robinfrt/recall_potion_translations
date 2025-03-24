@@ -1,0 +1,21 @@
+{
+  "item_group.recall_potion.recall_potion_creative_tab": "Recall Potion",
+  "advancements.nether_potion_advancement.descr": "Find or craft x1 Nether Potion",
+  "advancements.recall_potion_advancement.title": "Fast travel",
+  "item.recall_potion.end_potion.description_1": "§7Save point: §6Required",
+  "item.recall_potion.end_potion.description_0": "§7Teleports to: §eEnd",
+  "advancements.recall_potion_advancement.descr": "Find or craft x1 Recall Potion",
+  "advancements.end_potion_advancement.descr": "Find or craft x1 End Potion",
+  "item.recall_potion.recall_potion": "Recall Potion",
+  "item.recall_potion.end_potion": "End Potion",
+  "advancements.end_potion_advancement.title": "Dimensional traveler",
+  "advancements.nether_potion_advancement.title": "Back in hell",
+  "item.recall_potion.nether_potion": "Nether Potion",
+  "item.recall_potion.end_potion.description_2": "§7\u003e Accepted: §eLodestone",
+  "item.recall_potion.nether_potion.description_0": "§7Teleports to: §eNether",
+  "item.recall_potion.nether_potion.description_1": "§7Save point: §6Required",
+  "item.recall_potion.nether_potion.description_2": "§7\u003e Accepted: §eSoul Campfire§7, §eRespawn Anchor§7, §eLodestone",
+  "item.recall_potion.recall_potion.description_1": "§7Save point: §aOptional",
+  "item.recall_potion.recall_potion.description_0": "§7Teleports to: §eOverworld",
+  "item.recall_potion.recall_potion.description_2": "§7\u003e Accepted: §eBed§7, §eCampfire§7, §eLodestone"
+}
